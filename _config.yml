@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Priyadarshi Dey"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : example: "he/him"  
+  bio              : "I am a mathematician working on operator theory and functional analysis. In particular, I am working on projections on infinite dimensional spaces. I am interested to explore other areas of mathematics as well. "
   location         : "Ohio, USA"
   employer         : "Kenyon College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dey1@kenyon.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
